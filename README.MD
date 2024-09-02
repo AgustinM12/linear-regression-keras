@@ -38,9 +38,8 @@ Entrar en el entorno virutal:
 Instalar las librerías utilizando el siguiente comando dentro del entorno virutal:
 
 ```bash
-pip install pandas numpy matplotlib keras
+pip install -r requirements.txt
 ```
-
 
 # Utilizacion:
 Para probar la prediccion del peso de las personas en base a su altura puede hacerlo cambiando la siguiente linea N°53
